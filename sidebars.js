@@ -9,6 +9,7 @@ module.exports = {
       'system-requirements-opcon-rpa',
       'acquiring-a-license-opcon-rpa',
       'installation-opcon-rpa',
+      'install-cloud-vpn',
       'update-opcon-rpa',
       'orchestration-with-opcon-opcon-rpa',
       'mapping-opcon-properties',
